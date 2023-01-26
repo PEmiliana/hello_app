@@ -1,3 +1,8 @@
+# LETBD-tutorial-RoR
+Learn Enought To Be Dangerous - Ruby on Rails tutorial
+# https://www.railstutorial.org/book
+
+
 # README
 
 This README would normally document whatever steps are necessary to get the
